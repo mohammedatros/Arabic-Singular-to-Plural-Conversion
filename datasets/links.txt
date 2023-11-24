@@ -1,0 +1,56 @@
+Most of the datasets are large in size and cannot be uploaded to GitHub. So, we provide the downloadable links.
+As you download these datasets, they will be downloaded with their names:
+
+#  Pre_training Data Preparation Notebook:
+1. https://drive.google.com/drive/folders/1X0f8a3i6m1QS--_rwP2CtgGv5Ij2b416?usp=sharing
+###################################################################################
+
+# Character-BERT Notebook:
+# training data
+1. https://drive.google.com/uc?export=download&id=1nDAJ4dpln4GmP7G4V0MDsdYo8DcvcRvt
+# validation data
+2. https://drive.google.com/uc?export=download&id=1-5yRax24onUFLIT0FaZ4TqYi_w3s8p68
+# test data
+3. https://drive.google.com/uc?export=download&id=1-67Bh66zaaenXV-HT65QQj15mNIr1unU
+###################################################################################
+
+# Encoder-Decoder Model Notebook:
+# training data
+1. https://raw.githubusercontent.com/sigmorphon/2022InflectionST/main/part2/ara_1000.train
+# validation data
+2. https://raw.githubusercontent.com/sigmorphon/2022InflectionST/main/part2/ara.dev
+# test data
+3. https://raw.githubusercontent.com/sigmorphon/2022InflectionST/main/part2/ara.gold
+# cbert weights
+4. https://drive.google.com/uc?export=download&id=1AhVSq3LUZYlPzemlUJoBSw2-4ZsIl0UK
+###################################################################################
+
+# Error Analysis Notebook:
+1. valid predictions:
+1.1. https://drive.google.com/uc?export=download&id=1jZVF6TU8VsxdRf640lLBJCclASgSaugr
+1.2. https://drive.google.com/uc?export=download&id=1-NSTbyIFYyRclO-Ap33euNdP5eGMUmkx
+1.3. https://drive.google.com/uc?export=download&id=1-0nkMgfR7KM8t152TusbZAmbBl8ZsYhy
+1.4. https://drive.google.com/uc?export=download&id=1-3aPnNJugZdszfQ8_GiWhvo1QZcY9ha0
+1.5. https://drive.google.com/uc?export=download&id=1-9zBJfwe8INRB2L88gb10tBw_uNvl4dt
+1.6. https://drive.google.com/uc?export=download&id=1-UmFAZNH09M1oRPlkYJDjgNTwj6hdKJ4
+
+2. test predictions:
+2.1. https://drive.google.com/uc?export=download&id=1-7u5Vah7l-8YMmq2zlXKG0W24pxW5VoL
+2.2. https://drive.google.com/uc?export=download&id=1-ODA83AELLp0GynjjVlPc1dKcsqplgy6
+2.3. https://drive.google.com/uc?export=download&id=1-ODA83AELLp0GynjjVlPc1dKcsqplgy6
+2.4. https://drive.google.com/uc?export=download&id=1-5qFdu8HPv7fhLzXtFlbIGMqE8TEY8nM
+2.5. https://drive.google.com/uc?export=download&id=1-LkUEcnklNrBhTfwXsSpoXOxPWPOqVmh
+2.6. https://drive.google.com/uc?export=download&id=1-VJ7OBYqcndGAkPK6elD0nr4uTF9o1YA
+
+# training data
+3. https://drive.google.com/uc?export=download&id=1nDAJ4dpln4GmP7G4V0MDsdYo8DcvcRvt
+# validation data
+4. https://drive.google.com/uc?export=download&id=1-5yRax24onUFLIT0FaZ4TqYi_w3s8p68
+# test data
+5. https://drive.google.com/uc?export=download&id=1-67Bh66zaaenXV-HT65QQj15mNIr1unU
+# training progress
+6. https://drive.google.com/uc?export=download&id=1-Hmh01q3QrUWQYaGirDJqJ0w-jBK5HJA
+###################################################################################
+
+# Gradients dictionary
+1. https://drive.google.com/file/d/1x-VtM94GHCMXWbvqq-LVKaQ3zapHJpyr/view?usp=sharing
